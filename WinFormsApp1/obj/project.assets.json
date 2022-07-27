@@ -1,0 +1,224 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "FontAwesome.Sharp/5.15.4": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      },
+      "Nevron.Nov.Chart/17.5.29.12": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Nevron.Nov.Barcode.dll": {},
+          "lib/net40/Nevron.Nov.Chart.dll": {},
+          "lib/net40/Nevron.Nov.Diagram.dll": {},
+          "lib/net40/Nevron.Nov.Grid.dll": {},
+          "lib/net40/Nevron.Nov.Host.WinBase.dll": {},
+          "lib/net40/Nevron.Nov.Host.WinForm.dll": {},
+          "lib/net40/Nevron.Nov.Host.Wpf.dll": {},
+          "lib/net40/Nevron.Nov.Presentation.dll": {},
+          "lib/net40/Nevron.Nov.Schedule.dll": {},
+          "lib/net40/Nevron.Nov.Text.dll": {},
+          "lib/net40/Nevron.Nov.WinFormControls.dll": {},
+          "lib/net40/Nevron.Nov.WpfControls.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Nevron.Nov.Barcode.dll": {},
+          "lib/net40/Nevron.Nov.Chart.dll": {},
+          "lib/net40/Nevron.Nov.Diagram.dll": {},
+          "lib/net40/Nevron.Nov.Grid.dll": {},
+          "lib/net40/Nevron.Nov.Host.WinBase.dll": {},
+          "lib/net40/Nevron.Nov.Host.WinForm.dll": {},
+          "lib/net40/Nevron.Nov.Host.Wpf.dll": {},
+          "lib/net40/Nevron.Nov.Presentation.dll": {},
+          "lib/net40/Nevron.Nov.Schedule.dll": {},
+          "lib/net40/Nevron.Nov.Text.dll": {},
+          "lib/net40/Nevron.Nov.WinFormControls.dll": {},
+          "lib/net40/Nevron.Nov.WpfControls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FontAwesome.Sharp/5.15.4": {
+      "sha512": "IqJe1IQas6tSVXMNHTWA/NJeP7azyxDTk6DCB+NMXOOED2F07IYI9nvfB1HP83r4yh5cntZoTdwSpIraA5XoXw==",
+      "type": "package",
+      "path": "fontawesome.sharp/5.15.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "FontAwesome.Sharp.5.15.4.nupkg.sha512",
+        "FontAwesome.Sharp.nuspec",
+        "lib/net40/FontAwesome.Sharp.dll",
+        "lib/net45/FontAwesome.Sharp.dll",
+        "lib/net472/FontAwesome.Sharp.dll",
+        "lib/net48/FontAwesome.Sharp.dll",
+        "lib/net5.0-windows7.0/FontAwesome.Sharp.dll",
+        "lib/netcoreapp3.1/FontAwesome.Sharp.dll"
+      ]
+    },
+    "Nevron.Nov.Chart/17.5.29.12": {
+      "sha512": "GdI9CZFzTIHUpNgS2TPYRxvQR1m5voCaDYslMFg1BhFaTOEWsPb/h7cu/+5A7kkePJXOGq7Ml9qcLGvZGo7eLQ==",
+      "type": "package",
+      "path": "nevron.nov.chart/17.5.29.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Nevron.Nov.Barcode.dll",
+        "lib/net40/Nevron.Nov.Barcode.xml",
+        "lib/net40/Nevron.Nov.Chart.dll",
+        "lib/net40/Nevron.Nov.Chart.xml",
+        "lib/net40/Nevron.Nov.Diagram.dll",
+        "lib/net40/Nevron.Nov.Diagram.xml",
+        "lib/net40/Nevron.Nov.Grid.dll",
+        "lib/net40/Nevron.Nov.Grid.xml",
+        "lib/net40/Nevron.Nov.Host.WinBase.dll",
+        "lib/net40/Nevron.Nov.Host.WinBase.xml",
+        "lib/net40/Nevron.Nov.Host.WinForm.dll",
+        "lib/net40/Nevron.Nov.Host.WinForm.xml",
+        "lib/net40/Nevron.Nov.Host.Wpf.dll",
+        "lib/net40/Nevron.Nov.Host.Wpf.xml",
+        "lib/net40/Nevron.Nov.Presentation.dll",
+        "lib/net40/Nevron.Nov.Presentation.xml",
+        "lib/net40/Nevron.Nov.Schedule.dll",
+        "lib/net40/Nevron.Nov.Schedule.xml",
+        "lib/net40/Nevron.Nov.Text.dll",
+        "lib/net40/Nevron.Nov.Text.xml",
+        "lib/net40/Nevron.Nov.WinFormControls.dll",
+        "lib/net40/Nevron.Nov.WinFormControls.xml",
+        "lib/net40/Nevron.Nov.WpfControls.dll",
+        "lib/net40/Nevron.Nov.WpfControls.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Barcode.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Barcode.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Chart.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Chart.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Diagram.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Diagram.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Grid.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Grid.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Presentation.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Presentation.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Schedule.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Schedule.xml",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Text.dll",
+        "lib/portable-net4+sl5+wp8+win8/Nevron.Nov.Text.xml",
+        "lib/sl50/Nevron.Nov.Barcode.dll",
+        "lib/sl50/Nevron.Nov.Barcode.xml",
+        "lib/sl50/Nevron.Nov.Chart.dll",
+        "lib/sl50/Nevron.Nov.Chart.xml",
+        "lib/sl50/Nevron.Nov.Diagram.dll",
+        "lib/sl50/Nevron.Nov.Diagram.xml",
+        "lib/sl50/Nevron.Nov.Grid.dll",
+        "lib/sl50/Nevron.Nov.Grid.xml",
+        "lib/sl50/Nevron.Nov.Host.Silverlight.dll",
+        "lib/sl50/Nevron.Nov.Host.Silverlight.xml",
+        "lib/sl50/Nevron.Nov.Presentation.dll",
+        "lib/sl50/Nevron.Nov.Presentation.xml",
+        "lib/sl50/Nevron.Nov.Schedule.dll",
+        "lib/sl50/Nevron.Nov.Schedule.xml",
+        "lib/sl50/Nevron.Nov.SilverlightControls.dll",
+        "lib/sl50/Nevron.Nov.SilverlightControls.xml",
+        "lib/sl50/Nevron.Nov.Text.dll",
+        "lib/sl50/Nevron.Nov.Text.xml",
+        "nevron.nov.chart.17.5.29.12.nupkg.sha512",
+        "nevron.nov.chart.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "FontAwesome.Sharp >= 5.15.4",
+      "Nevron.Nov.Chart >= 17.5.29.12"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectName": "WinFormsApp1",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\source\\repos\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "FontAwesome.Sharp": {
+            "target": "Package",
+            "version": "[5.15.4, )"
+          },
+          "Nevron.Nov.Chart": {
+            "target": "Package",
+            "version": "[17.5.29.12, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Nevron.Nov.Chart 17.5.29.12' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Nevron.Nov.Chart",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

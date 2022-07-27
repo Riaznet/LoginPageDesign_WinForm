@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FontAwesome.Sharp/5.15.4": {
+        "runtime": {
+          "lib/net5.0-windows7.0/FontAwesome.Sharp.dll": {
+            "assemblyVersion": "5.15.4.0",
+            "fileVersion": "5.15.4.0"
+          }
+        }
+      },
+      "Nevron.Nov.Chart/17.5.29.12": {
+        "runtime": {
+          "lib/net40/Nevron.Nov.Barcode.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Chart.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Diagram.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Grid.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Host.WinBase.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Host.WinForm.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Host.Wpf.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Presentation.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Schedule.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.Text.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.WinFormControls.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          },
+          "lib/net40/Nevron.Nov.WpfControls.dll": {
+            "assemblyVersion": "17.5.29.12",
+            "fileVersion": "17.5.29.12"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FontAwesome.Sharp/5.15.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IqJe1IQas6tSVXMNHTWA/NJeP7azyxDTk6DCB+NMXOOED2F07IYI9nvfB1HP83r4yh5cntZoTdwSpIraA5XoXw==",
+      "path": "fontawesome.sharp/5.15.4",
+      "hashPath": "fontawesome.sharp.5.15.4.nupkg.sha512"
+    },
+    "Nevron.Nov.Chart/17.5.29.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GdI9CZFzTIHUpNgS2TPYRxvQR1m5voCaDYslMFg1BhFaTOEWsPb/h7cu/+5A7kkePJXOGq7Ml9qcLGvZGo7eLQ==",
+      "path": "nevron.nov.chart/17.5.29.12",
+      "hashPath": "nevron.nov.chart.17.5.29.12.nupkg.sha512"
+    }
+  }
+}
